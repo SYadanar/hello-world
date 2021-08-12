@@ -1,4 +1,4 @@
 # hello-world
 Learning...
 
-Hello! I'm SuYadanar, 3rd year CS student from Myanmar.
+Hello! I'm Su Yadanar, 3rd year CS student from Myanmar.
